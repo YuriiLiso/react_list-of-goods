@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,SACE,oBAAa,CAAb,YAAa,CACb,aAAS,CAAT,QACF,CAEA,QACE,oCACF","file":"main.607dbe30.chunk.css","sourcesContent":[".buttons {\n  display: flex;\n  gap: 20px;\n}\n\n.active {\n  background-color: rgba(136, 161, 46, 0.6);\n}\n"]}
